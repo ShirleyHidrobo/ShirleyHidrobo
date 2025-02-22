@@ -23,6 +23,7 @@ Aspiring **Web Designer & Software Developer** with a passion for creating funct
 ✔ **Virtual Machines & Server Management**  
 ✔ **Problem Solving & Team Collaboration**  
 ✔ **Remote Management & Client Communication**  
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,js,linux,py,vscode,wordpress,notion,linkedin,gmail,github,discord)](https://skillicons.dev)
 ---
 
