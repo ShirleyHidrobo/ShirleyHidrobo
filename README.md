@@ -10,7 +10,7 @@ Aspiring **Web Designer & Software Developer** with a passion for creating funct
 
 🔭 **Currently studying** for an RNCP accredited diploma in Computer Science at **42-London**.  
 🌱 **Learning** about **Virtual Machines** and their integration with web environments.  
-⚡ **Recently built** a program in **C** that replicates `printf`. [Check it out here](#).  
+⚡ **Recently built** a program in **C** that replicates printf. [Check it out here](#).  
 👯 **Looking to collaborate** on YouTube or podcasts to explain code in **Spanish and English**.  
 
 ---
@@ -30,7 +30,7 @@ Aspiring **Web Designer & Software Developer** with a passion for creating funct
 ## 🔗 Projects  
 
 📌 **WordPress + Virtual Machine**  
-Developed a virtualized environment using **Cockpit and WordPress** for efficient website management.  
+Developed a virtualized environment using **Cockpit, WordPress and MariaDB** for efficient website management.  
 [View Project](#)  
 
 📌 **Custom `printf` Implementation in C**  
