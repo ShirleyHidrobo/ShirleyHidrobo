@@ -48,8 +48,8 @@ Managed an **apartment rental in Spain remotely** through **Airbnb & Booking.com
 ## 📫 Contact Me  
 
 📩 **Email:** [(mailto:shirleyhidrobo@gmail.com)]
-
 🔗 **LinkedIn:** [[https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)] 
+
 ---
 
 ### **Why Me?**  
