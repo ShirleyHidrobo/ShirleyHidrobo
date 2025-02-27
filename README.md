@@ -35,7 +35,7 @@ Developed a virtualized environment using **Cockpit, WordPress and MariaDB** for
 
 📌 **Custom `printf` Implementation in C**  
 Recreated the `printf` function as part of a systems programming project.  
-[(https://github.com/ShirleyHidrobo/Projects)](#)  
+[[View Project](https://github.com/ShirleyHidrobo/Projects)](#)  
 
 📌 **🏡 Online Property Management**  
 Managed an **apartment rental in Spain remotely** through **Airbnb & Booking.com**:  
@@ -47,7 +47,7 @@ Managed an **apartment rental in Spain remotely** through **Airbnb & Booking.com
 
 ## 📫 Contact Me  
 
-📩 **Email:** (mailto:shirleyhidrobo@gmail.com)  
+📩 **Email:** [mailto:shirleyhidrobo@gmail.com]
 🔗 **LinkedIn:** [([https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)] 
 ---
 
