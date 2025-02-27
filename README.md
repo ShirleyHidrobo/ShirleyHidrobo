@@ -10,7 +10,7 @@ Aspiring **Web Designer & Software Developer** with a passion for creating funct
 
 🔭 **Currently studying** for an RNCP accredited diploma in Computer Science at **42-London**.  
 🌱 **Learning** about **Virtual Machines** and their integration with web environments.  
-⚡ **Recently built** a program in **C** that replicates printf. [Check it out here](#).  
+⚡ **Recently built** a program in **C** that replicates printf. [[Check it out here](https://github.com/ShirleyHidrobo/Projects)](#).  
 👯 **Looking to collaborate** on YouTube or podcasts to explain code in **Spanish and English**.  
 
 ---
@@ -31,11 +31,11 @@ Aspiring **Web Designer & Software Developer** with a passion for creating funct
 
 📌 **WordPress + Virtual Machine**  
 Developed a virtualized environment using **Cockpit, WordPress and MariaDB** for efficient website management.  
-[View Project](#)  
+[[View Project](https://github.com/ShirleyHidrobo/Projects)](#)  
 
 📌 **Custom `printf` Implementation in C**  
 Recreated the `printf` function as part of a systems programming project.  
-[Check it out](#)  
+[(https://github.com/ShirleyHidrobo/Projects)](#)  
 
 📌 **🏡 Online Property Management**  
 Managed an **apartment rental in Spain remotely** through **Airbnb & Booking.com**:  
@@ -47,10 +47,8 @@ Managed an **apartment rental in Spain remotely** through **Airbnb & Booking.com
 
 ## 📫 Contact Me  
 
-📩 **Email:** [your-email@example.com](mailto:shirleyhidrobo@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit) 
-💻 **GitHub Portfolio:** [https://shirleyhidrobo.github.io](https://shirleyhidrobo.github.io)  
-
+📩 **Email:** (mailto:shirleyhidrobo@gmail.com)  
+🔗 **LinkedIn:** [([https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)] 
 ---
 
 ### **Why Me?**  
